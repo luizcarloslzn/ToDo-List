@@ -15,6 +15,4 @@ deploy live in [https://luizcarloslzn-to-do-list.vercel.app/](https://luizcarlos
 - [x] JAVASCRIPT
 - [x] REACT
 - [x] AXIOS
-- [x] REACT ROUTER
 - [x] JSON-SERVER
-- [x] REACT-ICONS
