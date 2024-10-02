@@ -4,7 +4,7 @@
 
 deploy live in [https://luizcarloslzn-to-do-list.vercel.app/](https://luizcarloslzn-to-do-list.vercel.app/)
 
-## 🎥 Demo
+## 🎬 DEMO
 
 ![Demo ToDo-List](https://github.com/luizcarloslzn/ToDo-List/assets/117320155/1698037a-53b6-41b7-9d30-8e33d6ee89b0)
 
